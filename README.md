@@ -276,6 +276,6 @@ Planned improvements for scalability:
 Data Analyst | BI Developer | SQL | Power BI | Python  
 
 📌 GitHub: *(Add your link here)*  
-📌 LinkedIn: *(Add your link here)*  
+📌 LinkedIn: *https://www.linkedin.com/in/abdulmalik2001/*  
 
 ---
