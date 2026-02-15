@@ -22,6 +22,8 @@ The challenge is to build a scalable data warehouse solution that:
 - Supports fast and reliable reporting
 
 ---
+<img width="1031" height="637" alt="image" src="https://github.com/user-attachments/assets/b48db30c-fe9d-4ef3-a202-fed6cf70fc03" />
+
 
 ## 🏗️ Architecture Overview (Medallion Framework)
 
